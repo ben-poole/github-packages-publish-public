@@ -1,1 +1,20 @@
-{"data":{"base":"BLAAA","currency":"GBP","amount":"1846.67"}}
+[
+    {
+        "categories": [],
+        "created_at": "2020-01-05 13:42:26.991637",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "O2DVbXZFR2eegZpvFVhvUg",
+        "updated_at": "2020-01-05 13:42:26.991637",
+        "url": "https://api.chucknorris.io/jokes/O2DVbXZFR2eegZpvFVhvUg",
+        "value": "Chuck Norris is FATHER Nature."
+    },
+    {
+        "categories": [],
+        "created_at": "2020-01-05 13:42:26.991637",
+        "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+        "id": "O2DVbXZFR2eegZpvFVhvUg",
+        "updated_at": "2020-01-05 13:42:26.991637",
+        "url": "https://api.chucknorris.io/jokes/O2DVbXZFR2eegZpvFVhvUg",
+        "value": "Beeen! is FATHER Nature."
+    }
+]
